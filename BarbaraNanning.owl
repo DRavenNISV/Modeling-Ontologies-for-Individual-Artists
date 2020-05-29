@@ -14500,7 +14500,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETOClearGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETORedGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETOWhiteGlass"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_17_33"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/90-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">21</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">21</Has-Height>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30</Has-Height>
@@ -14524,7 +14524,7 @@
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#JiříPačinekLindava(CZ)"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#BullseyeGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#FlatGlassheetWithColouredCanes"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_18_64"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/0-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11</Has-Height>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Height>
@@ -14547,7 +14547,7 @@
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#JiříPačinekLindava(CZ)"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ARTWORK_36_Peacock"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#BullseyeGlass"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_36"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/36-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11</Has-Height>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Height>
@@ -14577,7 +14577,7 @@
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#VRIJGLASZaandam"/>
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AlešZvěřina&amp;AZ-Design"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#BullseyeGlass"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_39"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/39-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">16</Has-Height>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25</Has-Height>
@@ -14602,7 +14602,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Platinum"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ReichenbachColourRodsGlass(DE)"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionGlasmuseumLette"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_43"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/43-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">36</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">28</Has-Width>
@@ -14628,7 +14628,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Platinum"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ReichenbachColourRodsGlass(DE)"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionJ.LohmannGallery"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_44"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/44-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">28</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Width>
@@ -14650,7 +14650,7 @@
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AlešZvěřina&amp;AZ-Design"/>
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#JiříPačinekLindava(CZ)"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#BullseyeGlass"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_46"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/46-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20</Has-Height>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Height>
@@ -14673,7 +14673,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETOClearGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#PureDucat"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionWithUnknownOwner"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_73"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/73-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">28</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30</Has-Width>
@@ -14699,7 +14699,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETORedGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#LouvreGoldLeaf"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionMuseeDeDesignEtd&apos;artsAppliquesContemporains"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_74"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/74-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">37</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18</Has-Width>
@@ -14725,7 +14725,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#PureDucat"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ReichenbachColourRodsGlass(DE)"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionOfBarbaraNanning"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_75"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/75-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">32</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34</Has-Width>
@@ -14751,7 +14751,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#PureDucat"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ReichenbachColourRodsGlass(DE)"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionOfBarbaraNanning"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_76"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/76-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">30</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">18</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">35</Has-Width>
@@ -14776,7 +14776,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETOSmokeGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#LouvreGoldLeaf"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionOfBarbaraNanning"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_77"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/77-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">33</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">37</Has-Width>
@@ -14797,7 +14797,7 @@
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#VáçlavNovák_Doksy_CzechRepublic"/>
         <Made-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AlešZvěřina&amp;AZ-Design"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionWithUnknownOwner"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_78"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/78-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">23</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">24</Has-Width>
@@ -14822,7 +14822,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#AJETOWhiteGlass"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#PureDucat"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionWithUnknownOwner"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_79"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/79-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">17</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">27</Has-Width>
@@ -14846,7 +14846,7 @@
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Platinum"/>
         <Made-Out-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#ReichenbachColourRodsGlass(DE)"/>
         <Part-Of rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#CollectionOfBarbaraNanning"/>
-        <Shown-By rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_80"/>
+        <Shown-By rdf:resource="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/80-scaled.jpg"/>
         <Has-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">25</Has-Depth>
         <Has-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">22</Has-Height>
         <Has-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">26</Has-Width>
@@ -17576,9 +17576,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_17_33 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/90-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_17_33">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/90-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_17_33"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk A/d Amstel (NL)</Representation-Source>
@@ -17588,9 +17588,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_18_64 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/0-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_18_64">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/0-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_18_64"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk A/d Amstel (NL)</Representation-Source>
@@ -17600,9 +17600,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_36 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/36-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_36">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/36-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_36"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk A/d Amstel (NL)</Representation-Source>
@@ -17612,9 +17612,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_39 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/39-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_39">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/39-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_39"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk A/d Amstel (NL)</Representation-Source>
@@ -17624,9 +17624,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_43 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/43-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_43">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/43-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_43"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17636,9 +17636,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_44 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/44-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_44">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/44-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_44"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17648,9 +17648,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_46 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/46-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_46">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/46-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_46"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk A/d Amstel (NL)</Representation-Source>
@@ -17660,9 +17660,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_73 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/73-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_73">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/73-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_73"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17672,9 +17672,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_74 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/74-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_74">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/74-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_74"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17684,9 +17684,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_75 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/75-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_75">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/75-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_75"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17696,9 +17696,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_76 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/76-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_76">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/76-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_76"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17708,9 +17708,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_77 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/77-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_77">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/77-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_77"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17720,9 +17720,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_78 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/78-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_78">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/78-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_78"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17732,9 +17732,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_79 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/79-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_79">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/79-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_79"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
@@ -17744,9 +17744,9 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_80 -->
+    <!-- https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/80-scaled.jpg -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Image_Artwork_80">
+    <owl:NamedIndividual rdf:about="https://www.eeuwige-beweging.nl/wp-content/uploads/2020/05/80-scaled.jpg">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Digital_Image"/>
         <Shows rdf:resource="http://www.semanticweb.org/ontologies/Daan/2020/BarbaraNanning#Artwork_80"/>
         <Representation-Source xml:lang="en">Tom Haartsen_Ouderkerk a/d Amstel (NL)</Representation-Source>
